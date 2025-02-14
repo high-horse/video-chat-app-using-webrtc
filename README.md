@@ -60,8 +60,8 @@ project/
 │   │   │   └── vue.svg
 │   │   ├── components/
 │   │   │   ├── CreateRoom.vue
-│   │   │   ├── Room.vue  (or Room_old.vue - choose the active one)
-│   │   │   └── TestOnWailsComp.vue
+│   │   │   ├── Room.vue
+│   │   │   └── TestOnWailsComp.vue (to check if the project is supported in wails as well)
 │   │   ├── router/
 │   │   │   └── index.js
 │   │   ├── utils/
